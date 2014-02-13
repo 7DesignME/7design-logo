@@ -1,0 +1,83 @@
+/*
+ * User: Alaa Badran
+ * Date: 2014-02-13
+ * Time: 14:13:11
+ * Contact: me@alaabadran.com
+ * URL: http://www.alaabadran.com/
+ */
+
+.logo-wrapper{
+    margin-top:50px;
+    width:102px;
+    height:102px;
+    position: relative;
+    overflow: hidden;
+}
+
+.logo-wrapper div{
+    position:absolute;
+    background-color:#000;
+}
+
+.upper-line, .upper-long-line{
+    height:10px;
+    background-color:#000;
+}
+.logo-wrapper .upper-line{
+    width:66px;
+    top:0px;
+    left:10px;
+}
+.logo-wrapper .upper-long-line{
+    width:99px;
+    top:17px;
+}
+
+.rotate{
+    transform:rotate(35deg);
+}
+
+.right-vertical-line, .left-vertical-line{
+    width:10px;
+}
+.right-vertical-line{
+    height:99px;
+    top:6px;
+    right:30px;
+}
+.left-vertical-line{
+    height:89px;
+    top:6px;
+    right:47px;
+}
+
+.logo-wrapper .top-white-line, .logo-wrapper .top-white-line-2nd{
+    width:100px;
+    height:7px;
+    top:10px;
+    background:#fff;
+}
+.logo-wrapper .top-left-white-line, .logo-wrapper .top-right-white-line, .logo-wrapper .top-white-line-2nd{
+    top:-12px;
+    left:-12px;
+    width:20px;
+    height:50px;
+    background:#fff;
+}
+.logo-wrapper .top-white-line-2nd{
+    width:10px;
+    top:-32px;
+    left:82px;
+}
+.logo-wrapper .top-right-white-line{
+    top:-4px;
+    left:100px;
+}
+.logo-wrapper .bottom-white-line{
+    width:20px;
+    height:60px;
+    left:20px;
+    top:68px;
+    background-color:#fff;
+    transform:rotate(-35deg);
+}
