@@ -1,4 +1,5 @@
-7design-logo
+7Design Logo
 ============
 
-7Design logo made by CSS3 and HTML
+Creating HTML and CSS3 logo for 7Design
+
