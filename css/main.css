@@ -34,6 +34,7 @@
 }
 
 .rotate{
+    -webkit-transform:rotate(35deg);
     transform:rotate(35deg);
 }
 
@@ -79,5 +80,6 @@
     left:20px;
     top:68px;
     background-color:#fff;
+    -webkit-transform:rotate(-35deg);
     transform:rotate(-35deg);
 }
