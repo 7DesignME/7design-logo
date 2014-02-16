@@ -16,12 +16,12 @@
 
 .logo-wrapper div{
     position:absolute;
-    background-color:#000;
+    background-color:#0A4F6A;
 }
 
 .upper-line, .upper-long-line{
     height:10px;
-    background-color:#000;
+    background-color:#0A4F6A;
 }
 .logo-wrapper .upper-line{
     width:66px;
